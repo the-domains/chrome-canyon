@@ -1,0 +1,28 @@
+name: Chrome Canyon
+favicon: null
+layout_spectrum: 0.5669185325969011
+typography_spectrum: 0.3456081284675747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23951245052739978
+  lightness: 0.515557057922706
+  saturation: 0.6882827319204807
+  rhythmicContrast: 0.05126199754886329
+purpose: []

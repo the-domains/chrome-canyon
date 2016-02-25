@@ -1,6 +1,6 @@
 name: Chrome Canyon
 favicon: null
-layout_spectrum: 0.20614
+layout_spectrum: 0
 typography_spectrum: 0.4055
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#ca9372'
     - '#8523e6'
   brandStrength: 0
-  lightness: 0.9375
+  lightness: 0
   saturation: 1
   rhythmicContrast: 0.25
 purpose: []
